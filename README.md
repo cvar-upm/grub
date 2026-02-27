@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/grub.png"/>
+  <img src="./assets/grub-cvar.png"/>
 </p>
 
 ## Previews
@@ -31,6 +31,14 @@
 <details>
 <summary>🌿 Mocha</summary>
   <img src="./assets/grub-mocha.png"/>
+</details>
+<details>
+<summary>🎨 Cvar</summary>
+  <img src="./assets/grub-cvar.png"/>
+</details>
+<details>
+<summary>All</summary>
+  <img src="./assets/grub.png"/>
 </details>
 
 ## Usage
@@ -54,6 +62,8 @@
     ```shell
     GRUB_THEME="/usr/share/grub/themes/catppuccin-<flavor>-grub-theme/theme.txt"
     ```
+
+    Available flavors: `latte`, `frappe`, `macchiato`, `mocha`, `cvar`
 
 4. Update grub:
 
