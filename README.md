@@ -46,7 +46,7 @@
 1. Clone this repository locally and enter the cloned folder:
 
     ```shell
-    git clone https://github.com/rdasilva01/grub.git && cd grub
+    git clone https://github.com/cvar-upm/grub.git && cd grub
     ```
 
 2. Copy all or selected theme from `src` folder to
