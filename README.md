@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+  <img src="./assets/cvar-logo.png" width="100" alt="Logo"/><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
   Catppuccin for <a href="https://www.gnu.org/software/grub/">Grub</a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
@@ -53,6 +53,7 @@
 `/usr/share/grub/themes/`. E.g. to copy all themes use:
 
     ```shell
+    sudo mkdir /usr/share/grub/themes
     sudo cp -r src/* /usr/share/grub/themes/
     ```
 
